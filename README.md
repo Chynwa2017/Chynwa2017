@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chynwa2017
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on blockchain
+- 🌱 I’m currently learning to become a front-end developer 
+- 💞️ I’m looking to collaborate on projects to enhance my knowledge 
 - 📫 How to reach me sagedeborah928@gmail.com 
 
 <!---
